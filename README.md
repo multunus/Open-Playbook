@@ -26,7 +26,7 @@ You work at Multunus. This is our Open culture, tools and process playbook.
 
 We've made the playbook free and licensed it as [Creative Commons Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/3.0) so others may learn from, or use, our tactics in their own companies. While our "plays" have worked for us, we trust their judgment over ours to decide which tools and techniques might work for them, too.
 
-![image alt text](http://bit.ly/1UB8Q60)
+![Creative Commons Attribution-NonCommercial](https://raw.githubusercontent.com/multunus/Open-Playbook/master/Images/cc_licence.png)
 
 *Creative Commons Attribution-NonCommercial*
 
@@ -78,7 +78,7 @@ Salary = ((Base Salary for Role * Skill Level) + Leadership Component) *  Flexib
 
 For more clarity, here’s a snapshot from the spreadsheet:
  
-![image alt text](http://bit.ly/1JSYqEq)
+![Salary Formula Snapshot](https://raw.githubusercontent.com/multunus/Open-Playbook/master/Images/salary_formula_snapshot.png)
 
 Some key concepts you need to know: 
 
@@ -100,11 +100,11 @@ Some key concepts you need to know:
 
 **Flexibility Factor:** While most of our employees are full time, this factor makes it possible for individuals in exceptional circumstances to spend less time working. Use the flexibility factor if you or your manager think you fall in that category. 
 
-Notes: 
+**Notes:** 
 
 * To ensure that we continue to encourage [Sustainable Pace](http://www.sustainablepace.net/what-is-sustainable-pace) at the company, there’s a cap on the Flexibility factor at 1. 1 is also the default value for this component [since, you will most probably fall into the "quite flexible" category and not otherwise]
 
-* For two people with the same Role, Skill Level and Leadership component - there will no difference in compensation - assuming they’re both *at least *"quite flexible". 
+* For two people with the same Role, Skill Level and Leadership component - there will no difference in compensation - assuming they’re both *at least* "quite flexible".
 
 ### <a name="salary-sheet"></a> The Open Salary Sheet
 
