@@ -194,7 +194,7 @@ Our goal is to make the whole compensation system as Autonomous and Democratic a
 
 ## <a name="corporate-finance-aspect"></a> The Corporate Finance Aspect
 
-At each of the above stages, endeavour to keep the "[EBITDA](http://www.investopedia.com/terms/e/ebitda.asp)" cells in green. EBITDA is *primarily* our projected Profit Before Tax.
+At each of the above stages, endeavour to keep the "[EBITDA](http://www.investopedia.com/terms/e/ebitda.asp)" cells in green.
 
 Green, Yellow and Red numbers indicates a high, moderate and low levels of financial sustainability for the business. 
 
