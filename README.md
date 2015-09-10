@@ -180,7 +180,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com): We are inspired by their lucid writing style and have used the same style in this playbook.
 
-* [Buffer’s Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): We’re deeply inspired by Buffer’s pursuit of transparency at the the workplace. Our Open Salary System is to a very large part derived from their system.
+* [Buffer’s Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): We’re deeply inspired by Buffer’s pursuit of transparency at the workplace. Our Open Salary System is to a very large part derived from their system.
 
 # <a name="appendix-a"></a> Appendix A: Democratic Process for Company Level Compensation
 
