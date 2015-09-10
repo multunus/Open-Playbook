@@ -11,8 +11,8 @@ Open Playbook
   * [The Formula](#formula)
   * [The Open Salary Sheet](#salary-sheet)
   * [Types and Frequency of Revisions](#types-frequency-revision)
-  * [Company Wide Revision - Yearly](#company-revision)
-  * [Individual Revision - Quarterly](#individual-revision)
+  * [Company Wide Revision \[Yearly](#company-revision)
+  * [Individual Revision \[Quarterly](#individual-revision)
 * [Credits](#credits)
 * [Appendix A: Democratic Process for Company Level Compensation](#appendix-a)
   * [The Corporate Finance Aspect](#corporate-finance-aspect)
@@ -40,7 +40,7 @@ This playbook includes guides for the following systems:
 
 ### <a name="transparency"></a> Transparency
 
-* **Basic Financial Awareness:** You deserve to be aware of the companyís financial situation. Further, to help you appreciate the companyís numbers better, we will also  invest in training you on basic business finance.
+* **Basic Financial Awareness:** You deserve to be aware of the company‚Äôs financial situation. Further, to help you appreciate the company‚Äôs numbers better, we will also  invest in training you on basic business finance.
 
 ### <a name="demo-auto"></a> Democracy and Autonomy
 
@@ -64,7 +64,7 @@ A key component of an Autonomous Salary system is that it is also Open. This mea
 
 ## <a name="compensation-principles"></a> Compensation Principles
 
-We donít compete with other companies on salary. Having said that: 
+We don‚Äôt compete with other companies on salary. Having said that: 
 
 * Lower-than-expected compensation is a distraction for even the most committed and engaged employees.
 
@@ -76,39 +76,39 @@ We donít compete with other companies on salary. Having said that:
 
 Salary = ((Base Salary for Role * Skill Level) + Leadership Component) *  Flexibility Component
 
-For more clarity, hereís a snapshot from the spreadsheet:
+For more clarity, here‚Äôs a snapshot from the spreadsheet:
  
 ![Salary Formula Snapshot](https://raw.githubusercontent.com/multunus/Open-Playbook/master/Images/salary_formula_snapshot.png)
 
 Some key concepts you need to know: 
 
-**Role:** The Role is your primary responsibility. The "Role Amount" is what we refer to as the ìBase Salaryî - that is, the *primary* determinant of the compensation for anyone in that role.
+**Role:** The Role is your primary responsibility. The "Role Amount" is what we refer to as the ‚ÄúBase Salary‚Äù - that is, the *primary* determinant of the compensation for anyone in that role.
 
 **Skill Level:** This is the level or depth of expertise that you have in your role. The spreadsheet includes definitions for each of our current skill levels.
 
-**Leadership Component**: Youíre assigned a leadership level if you have significant positive influence on others on the team either:
+**Leadership Component**: You‚Äôre assigned a leadership level if you have significant positive influence on others on the team either:
 
-* Directly (for example, youíre playing the assigned role of a "Team Lead") or,
+* Directly (for example, you‚Äôre playing the assigned role of a "Team Lead") or,
 
 * Indirectly (for example, you contribute significantly to the community through your open source efforts)
 
 **Notes:** 
 
-* Leadership at the company is by invite only. Weíre always looking for more leaders - so you can rest assured that you will be personally invited to formally join the leadership team. 
+* Leadership at the company is by invite only. We‚Äôre always looking for more leaders - so you can rest assured that you will be personally invited to formally join the leadership team. 
 
-* When will you be invited? When youíve demonstrated for a significant length of time (usually 6 months or more) a deep understanding of our culture and a desire and skill to grow your colleagues to become better professionals.
+* When will you be invited? When you‚Äôve demonstrated for a significant length of time (usually 6 months or more) a deep understanding of our culture and a desire and skill to grow your colleagues to become better professionals.
 
 **Flexibility Factor:** While most of our employees are full time, this factor makes it possible for individuals in exceptional circumstances to spend less time working. Use the flexibility factor if you or your manager think you fall in that category. 
 
 **Notes:** 
 
-* To ensure that we continue to encourage [Sustainable Pace](http://www.sustainablepace.net/what-is-sustainable-pace) at the company, thereís a cap on the Flexibility factor at 1. 1 is also the default value for this component [since, you will most probably fall into the "quite flexible" category and not otherwise]
+* To ensure that we continue to encourage [Sustainable Pace](http://www.sustainablepace.net/what-is-sustainable-pace) at the company, there‚Äôs a cap on the Flexibility factor at 1. 1 is also the default value for this component [since, you will most probably fall into the "quite flexible" category and not otherwise]
 
-* For two people with the same Role, Skill Level and Leadership component - there will no difference in compensation - assuming theyíre both *at least* "quite flexible".
+* For two people with the same Role, Skill Level and Leadership component - there will no difference in compensation - assuming they‚Äôre both *at least* "quite flexible".
 
 ### <a name="salary-sheet"></a> The Open Salary Sheet
 
-Hereís our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/spreadsheets/d/1uAZM0QU4AQl7JvrEoYO1_7YWWiWNUOR0uUASTdGLJGk/edit?usp=drive_web) [If youíre not an employee, please use this [Public template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075)]. 
+Here‚Äôs our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/spreadsheets/d/1uAZM0QU4AQl7JvrEoYO1_7YWWiWNUOR0uUASTdGLJGk/edit?usp=drive_web) [If you‚Äôre not an employee, please use this [Public template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075)]. 
 
 * It includes key financial data of our company and also the salaries of everyone in the company. So please make sure to protect the confidentiality of the spreadsheet.
 
@@ -116,7 +116,7 @@ Hereís our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/sp
 
 ### <a name="types-frequency-revision"></a> Types and Frequency of Revisions
 
-Youíre eligible for compensation revision in the following situations: 
+You‚Äôre eligible for compensation revision in the following situations: 
 
 * **Company-wide revision** **[Yearly]** - This happens once a year in the month of March. All of the salary components [[See Formula Above](#formula)] may be revised during this process. 
 
@@ -126,7 +126,7 @@ Youíre eligible for compensation revision in the following situations:
 
     * This revision affects everyone on our payroll
 
-* **Individual Revision** **[Quarterly]** - If and when thereís a change in your Role, Skill, Leadership and Flexibility levels. 
+* **Individual Revision** **[Quarterly]** - If and when there‚Äôs a change in your Role, Skill, Leadership and Flexibility levels. 
 
     * This coincides with your quarterly performance review - that happens in the months of March, June, September and December.
 
@@ -136,7 +136,7 @@ Youíre eligible for compensation revision in the following situations:
 
 * **NOTE**: The goal of this type of system is to provide you with the *opportunity* to have your compensation revised multiple times in a year. However, the following is an  important caveat: 
 
-    * Weíre a transparent and democratic company. You will need to have the open support of your colleagues to get a compensation revision approved. This is explained in more detail below.
+    * We‚Äôre a transparent and democratic company. You will need to have the open support of your colleagues to get a compensation revision approved. This is explained in more detail below.
 
 ### <a name="company-revision"></a> Company Wide Revision [Yearly]
 
@@ -146,7 +146,7 @@ The following elements of the Salary Formula are reviewed at this stage:
 
     * Are there new items to be added/deleted/changed? 
 
-    * Thereís unlikely to be much variation here, year on year.
+    * There‚Äôs unlikely to be much variation here, year on year.
 
 * **Role Base Salaries**: 
 
@@ -180,7 +180,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com): We are inspired by their lucid writing style and have used the same style in this playbook.
 
-* [Bufferís Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): Weíre deeply inspired by Bufferís pursuit of transparency at the the workplace. Our Open Salary System is to a very large part derived from their system.
+* [Buffer‚Äôs Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): We‚Äôre deeply inspired by Buffer‚Äôs pursuit of transparency at the the workplace. Our Open Salary System is to a very large part derived from their system.
 
 # <a name="appendix-a"></a> Appendix A: Democratic Process for Company Level Compensation
 
@@ -188,7 +188,7 @@ Our goal is to make the whole compensation system as Autonomous and Democratic a
 
 1. First by senior management, 
 
-2. Then by everyone whoíd worked for more than 3 years at Multunus, and
+2. Then by everyone who‚Äôd worked for more than 3 years at Multunus, and
 
 3. Finally by everyone else. 
 
@@ -212,7 +212,7 @@ Further, the following steps also make the process more democratic:
 
 **NOTE:**
 
-* The above process was used primarily for the two components (Role Base Salary and Skill Level). Hereís what we do for the Leadership and Flexibility Components:
+* The above process was used primarily for the two components (Role Base Salary and Skill Level). Here‚Äôs what we do for the Leadership and Flexibility Components:
 
 * **Leadership Component**: Only those folks who are already in some kind of leadership role get involved in revising this component.  
 
@@ -224,6 +224,6 @@ Further, the following steps also make the process more democratic:
 
     * Irrespective of the Role, a skill level of "Fresh Grad" has the same base salary.
 
-    * The only exception to the above rule is for those roles which cannot be categorized as "highly creative and affect our brand" (Eg: ìOffice Adminî)
+    * The only exception to the above rule is for those roles which cannot be categorized as "highly creative and affect our brand" (Eg: ‚ÄúOffice Admin‚Äù)
 
-    * **NOTE:** Not all Roles have a "Fresh Grad" skill level. This includes ìProduct Managersî and ìTechnology Architectsî.
+    * **NOTE:** Not all Roles have a "Fresh Grad" skill level. This includes ‚ÄúProduct Managers‚Äù and ‚ÄúTechnology Architects‚Äù.
