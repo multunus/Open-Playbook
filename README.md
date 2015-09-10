@@ -176,7 +176,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
 # <a name="credits"></a> Credits
 
-* [Ricardo Semler](https://en.wikipedia.org/wiki/Ricardo_Semler): Author of Maverick and CEO of Semco - the company that is best known for industrial democracy.
+* [Ricardo Semler](https://en.wikipedia.org/wiki/Ricardo_Semler): Author of [Maverick](http://amzn.to/1L3LFez) and CEO of Semco - the company that is best known for industrial democracy.
 
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com): We are inspired by their lucid writing style and have used the same style in this playbook.
 
