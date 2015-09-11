@@ -156,7 +156,7 @@ The following elements of the Salary Formula are reviewed at this stage:
 
 * **Skill Level Multiplier Factors:**
 
-    * A key thing to keep in mind while revising the Multiplier Factors is to ensure that the final compensation numbers are fair across *all *roles, skill levels and leadership components.
+    * A key thing to keep in mind while revising the Multiplier Factors is to ensure that the final compensation numbers are fair across *all* roles, skill levels and leadership components.
 
 * **Leadership Additional Component:**
 
