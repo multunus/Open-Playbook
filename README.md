@@ -5,7 +5,7 @@
 * [Principles](#principles)  
   * [Transparency](#transparency)  
   * [Democracy and Autonomy](#demo-auto)
-* [Our Compensation System](#compensation-system)
+* [Our Autonomous Compensation System](#compensation-system)
   * [What is it?](#what-is-it)
   * [Compensation Principles](#compensation-principles)
 * [How does it work?](#how)
@@ -51,7 +51,7 @@ This playbook includes guides for the following systems:
 
 * **Friendly and Supportive team:** We believe that you will use these systems in the best way you can, given your knowledge, skills and and your individual situations. Further, as a team we are here to encourage and guide you to help you make good decisions.
 
-## <a name="compensation-system"></a> Our Compensation System
+## <a name="compensation-system"></a> Our Autonomous Compensation System
 
 ### <a name="what-is-it"></a> What is it?
 
