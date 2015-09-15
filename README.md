@@ -21,7 +21,7 @@
 * [Appendix B: Role Base Salary Determination](#appendix-b)
 
 
-## <a name="hello"></a> Hello
+## <a id="hello"></a> Hello
 
 You work at Multunus. This is our Open culture, tools and process playbook. 
 
@@ -37,13 +37,13 @@ This playbook includes guides for the following systems:
 * Our Financial Dashboard [Coming soon]
 * Our Delivery Dashboard [Coming soon]
 
-## <a name="principles"></a> Principles
+## <a id="principles"></a> Principles
 
-### <a name="transparency"></a> Transparency
+### <a id="transparency"></a> Transparency
 
 * **Basic Financial Awareness:** You deserve to be aware of the company’s financial situation. Further, to help you appreciate the company’s numbers better, we will also  invest in training you on basic business finance.
 
-### <a name="demo-auto"></a> Democracy and Autonomy
+### <a id="demo-auto"></a> Democracy and Autonomy
 
 * **Collective intelligence:** Put together, the whole team is smarter and more aware of what compensation levels make sense across the organization - than just a few people in the management.
 
@@ -51,9 +51,9 @@ This playbook includes guides for the following systems:
 
 * **Friendly and Supportive team:** We believe that you will use these systems in the best way you can, given your knowledge, skills and and your individual situations. Further, as a team we are here to encourage and guide you to help you make good decisions.
 
-## <a name="compensation-system"></a> Our Autonomous Compensation System
+## <a id="compensation-system"></a> Our Autonomous Compensation System
 
-### <a name="what-is-it"></a> What is it?
+### <a id="what-is-it"></a> What is it?
 
 An Autonomous Salary system is one in which each employee determines their own compensation. This is in contrast to the compensation being determined by the management.
 
@@ -63,7 +63,7 @@ A key component of an Autonomous Salary system is that it is also Open. This mea
 
 * That the process (or formula) used to determine the salary is also open to all employees.
 
-### <a name="compensation-principles"></a> Compensation Principles
+### <a id="compensation-principles"></a> Compensation Principles
 
 We don’t compete with other companies on salary. Having said that: 
 
@@ -71,9 +71,9 @@ We don’t compete with other companies on salary. Having said that:
 
 * Compensation levels are an indicator of the quality of both the work (that the specific role demands) and the workplace itself. Higher the compensation, better is everything else *usually*.
 
-## <a name="how"></a> How does it work?
+## <a id="how"></a> How does it work?
 
-### <a name="formula"></a> The Formula
+### <a id="formula"></a> The Formula
 
 Salary = ((Base Salary for Role * Skill Level) + Leadership Component) *  Flexibility Component
 
@@ -107,7 +107,7 @@ Some key concepts you need to know:
 
 * For two people with the same Role, Skill Level and Leadership component - there will no difference in compensation - assuming they’re both *at least* "quite flexible".
 
-### <a name="salary-sheet"></a> The Open Salary Sheet
+### <a id="salary-sheet"></a> The Open Salary Sheet
 
 Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/spreadsheets/d/1uAZM0QU4AQl7JvrEoYO1_7YWWiWNUOR0uUASTdGLJGk/edit?usp=drive_web) [If you’re not an employee, please use this [Public template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075)]. 
 
@@ -115,7 +115,7 @@ Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/
 
 * Use the spreadsheet as reference to find our current list of Roles, Skill Levels and Leadership Levels. More on this below.
 
-### <a name="types-frequency-revision"></a> Types and Frequency of Revisions
+### <a id="types-frequency-revision"></a> Types and Frequency of Revisions
 
 You’re eligible for compensation revision in the following situations: 
 
@@ -139,7 +139,7 @@ You’re eligible for compensation revision in the following situations:
 
     * We’re a transparent and democratic company. You will need to have the open support of your colleagues to get a compensation revision approved. This is explained in more detail below.
 
-### <a name="company-revision"></a> Company Wide Revision [Yearly]
+### <a id="company-revision"></a> Company Wide Revision [Yearly]
 
 The following elements of the Salary Formula are reviewed at this stage: 
 
@@ -165,7 +165,7 @@ The following elements of the Salary Formula are reviewed at this stage:
 
 _All of the above values are reviewed in a Transparent and Democratic manner._ **Read  [Appendix A](#appendix-a) for more details on the process.**
 
-### <a name="individual-revision"></a> Individual Revision [Quarterly]
+### <a id="individual-revision"></a> Individual Revision [Quarterly]
 
 This is a 2 step process that happens between the first and second weeks of March, June, September and December: 
 
@@ -175,7 +175,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
     * Clear instructions are provided in the Open Salary spreadsheet as to how to go about this process.
 
-## <a name="credits"></a> Credits
+## <a id="credits"></a> Credits
 
 * [Ricardo Semler](https://en.wikipedia.org/wiki/Ricardo_Semler): Author of [Maverick](http://amzn.to/1L3LFez) and CEO of Semco - the company that is best known for industrial democracy.
 
@@ -183,7 +183,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
 * [Buffer’s Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): We’re deeply inspired by Buffer’s pursuit of transparency at the workplace. Our Open Salary System is to a very large part derived from their system.
 
-## <a name="appendix-a"></a> Appendix A: Democratic Process for Company Level Compensation
+## <a id="appendix-a"></a> Appendix A: Democratic Process for Company Level Compensation
 
 Our goal is to make the whole compensation system as Autonomous and Democratic as possible. We made that happen at this stage (i.e. at the Company Level) by making decisions in three stages: 
 
@@ -193,7 +193,7 @@ Our goal is to make the whole compensation system as Autonomous and Democratic a
 
 3. Finally by everyone else. 
 
-### <a name="corporate-finance-aspect"></a> The Corporate Finance Aspect
+### <a id="corporate-finance-aspect"></a> The Corporate Finance Aspect
 
 At each of the above stages, endeavour to keep the "[EBITDA](http://www.investopedia.com/terms/e/ebitda.asp)" cells in green.
 
@@ -201,7 +201,7 @@ Green, Yellow and Red numbers indicates a high, moderate and low levels of finan
 
 To help you use this system effectively, we will provide training on basic corporate finance. 
 
-### <a name="really-democratic"></a> Is this really democratic?
+### <a id="really-democratic"></a> Is this really democratic?
 
 A "stages" approach is perhaps not as democratic as having everyone involved at once, but it has the advantage that whole process can be controlled better and that we were moving forward the whole time - rather than ending up in chaos.
 
@@ -219,7 +219,7 @@ Further, the following steps also make the process more democratic:
 
 * **Flexibility Component**: There are no company level values for this component - only a range from 0.5 to 1.0 (as described above). 
 
-## <a name="appendix-b"></a> Appendix B: Role Base Salary Determination
+## <a id="appendix-b"></a> Appendix B: Role Base Salary Determination
 
 * Setting the Base Salary is easier for some roles (Programmers), hard for some (Sales Execs) and almost impossible for others (Happiness/Engagement Engineer). For those roles that we could not find enough industry data for, we used the following rules to come up with the base salary:
 
