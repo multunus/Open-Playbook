@@ -11,7 +11,7 @@
 * [How does it work?](#how)
   * [The Formula](#formula)
   * [The Open Salary Sheet](#salary-sheet)
-  * [Types and Frequency of Revisions](#types-frequency-revision)
+  * [Types and Frequency of Reviews](#types-frequency-reviews)
   * [Company Wide Review \[Yearly\]](#company-review)
   * [Individual Review \[Quarterly\]](#individual-review)
 * [Credits](#credits)
@@ -115,9 +115,9 @@ Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/
 
 * Use the spreadsheet as reference to find our current list of Roles, Skill Levels and Leadership Levels. More on this below.
 
-### <a id="types-frequency-revision"></a> Types and Frequency of Revisions
+### <a id="types-frequency-reviews"></a> Types and Frequency of Reviews
 
-You’re eligible for compensation revision in the following situations: 
+You’re eligible for compensation review in the following situations: 
 
 * **Company-wide review** **[Yearly]** - This happens once a year in the month of March. All of the salary components [[See Formula Above](#formula)] may be revised during this process. 
 
@@ -125,7 +125,7 @@ You’re eligible for compensation revision in the following situations:
 
     * We use our [Compensation Principles](#compensation-principles) during this process
 
-    * This revision affects everyone on our payroll
+    * This review affects everyone on our payroll
 
 * **Individual Review** **[Quarterly]** - If and when there’s a change in your Role, Skill, Leadership and Flexibility levels. 
 
@@ -133,7 +133,7 @@ You’re eligible for compensation revision in the following situations:
 
     * However the actual revision to your compensation happens in the subsequent month.
 
-    * In the month of March, the Company Wide Revision process starts after the Individual Revision process is complete. 
+    * In the month of March, the Company Wide Review process starts after the Individual Review process is complete. 
 
 * **NOTE**: The goal of this type of system is to provide you with the *opportunity* to have your compensation revised multiple times in a year. However, the following is an  important caveat: 
 
@@ -151,7 +151,7 @@ The following elements of the Salary Formula are reviewed at this stage:
 
 * **Role Base Salaries**: 
 
-    * We review and revise the Industry Standards for Entry Level Salaries for each role across companies in Bangalore. The results are published within the spreadsheet - and used as an open reference during the Company Level revision process. 
+    * We review and revise the Industry Standards for Entry Level Salaries for each role across companies in Bangalore. The results are published within the spreadsheet - and used as an open reference during the Company Level review process. 
 
     * Refer to [Appendix B](#appendix-b) for more details on this.
 
