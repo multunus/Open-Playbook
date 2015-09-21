@@ -179,7 +179,7 @@ This is a 2 step process that happens between the first and second weeks of Marc
 
 * [Ricardo Semler](https://en.wikipedia.org/wiki/Ricardo_Semler): Author of [Maverick](http://amzn.to/1L3LFez) and CEO of Semco - the company that is best known for industrial democracy.
 
-* [Thoughtbot Playbook](http://playbook.thoughtbot.com): We are inspired by their lucid writing style and have used the same style in this playbook.
+* [Thoughtbot Playbook](http://playbook.thoughtbot.com): We are inspired by their lucid writing style and have used a similar style in this playbook.
 
 * [Buffer’s Open Salary System](https://open.bufferapp.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/): We’re deeply inspired by Buffer’s pursuit of transparency at the workplace. Our Open Salary System is to a very large part derived from their system.
 
