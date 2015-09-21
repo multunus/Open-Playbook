@@ -12,8 +12,8 @@
   * [The Formula](#formula)
   * [The Open Salary Sheet](#salary-sheet)
   * [Types and Frequency of Revisions](#types-frequency-revision)
-  * [Company Wide Revision \[Yearly\]](#company-revision)
-  * [Individual Revision \[Quarterly\]](#individual-revision)
+  * [Company Wide Review \[Yearly\]](#company-review)
+  * [Individual Review \[Quarterly\]](#individual-review)
 * [Credits](#credits)
 * [Appendix A: Democratic Process for Company Level Compensation](#appendix-a)
   * [The Corporate Finance Aspect](#corporate-finance-aspect)
@@ -119,7 +119,7 @@ Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/
 
 You’re eligible for compensation revision in the following situations: 
 
-* **Company-wide revision** **[Yearly]** - This happens once a year in the month of March. All of the salary components [[See Formula Above](#formula)] may be revised during this process. 
+* **Company-wide review** **[Yearly]** - This happens once a year in the month of March. All of the salary components [[See Formula Above](#formula)] may be revised during this process. 
 
     * This includes both the actual levels for each of the components and the numbers themselves.
 
@@ -127,7 +127,7 @@ You’re eligible for compensation revision in the following situations:
 
     * This revision affects everyone on our payroll
 
-* **Individual Revision** **[Quarterly]** - If and when there’s a change in your Role, Skill, Leadership and Flexibility levels. 
+* **Individual Review** **[Quarterly]** - If and when there’s a change in your Role, Skill, Leadership and Flexibility levels. 
 
     * This coincides with your quarterly performance review - that happens in the months of March, June, September and December.
 
@@ -139,7 +139,7 @@ You’re eligible for compensation revision in the following situations:
 
     * We’re a transparent and democratic company. You will need to have the open support of your colleagues to get a compensation revision approved. This is explained in more detail below.
 
-### <a id="company-revision"></a> Company Wide Revision [Yearly]
+### <a id="company-review"></a> Company Wide Review [Yearly]
 
 The following elements of the Salary Formula are reviewed at this stage: 
 
@@ -165,7 +165,7 @@ The following elements of the Salary Formula are reviewed at this stage:
 
 _All of the above values are reviewed in a Transparent and Democratic manner._ **Read  [Appendix A](#appendix-a) for more details on the process.**
 
-### <a id="individual-revision"></a> Individual Revision [Quarterly]
+### <a id="individual-review"></a> Individual Review [Quarterly]
 
 This is a 2 step process that happens between the first and second weeks of March, June, September and December: 
 
