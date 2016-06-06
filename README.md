@@ -109,7 +109,7 @@ Some key concepts you need to know:
 
 ### <a id="salary-sheet"></a> The Open Salary Sheet
 
-Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/spreadsheets/d/1uAZM0QU4AQl7JvrEoYO1_7YWWiWNUOR0uUASTdGLJGk/edit?usp=drive_web) [If you’re not an employee, please use this [Public template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075)]. 
+Here’s our open [Salaries Spreadsheet](https://docs.google.com/a/multunus.com/spreadsheets/d/1uAZM0QU4AQl7JvrEoYO1_7YWWiWNUOR0uUASTdGLJGk/edit?usp=drive_web) [*If you’re not an employee*, please use this [Public template](https://docs.google.com/spreadsheets/d/1MhoSHHSpOKYPM1Nx5n2XmjlK2ddouxL6byqEH0fZS2s/edit#gid=1267023075)]. 
 
 * It includes key financial data of our company and also the salaries of everyone in the company. So please make sure to protect the confidentiality of the spreadsheet.
 
